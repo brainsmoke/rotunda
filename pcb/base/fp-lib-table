@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name rtunda)(type KiCad)(uri /storage/archive/hardware/rotunda/rtunda.pretty)(options "")(descr ""))
+)

@@ -1,0 +1,205 @@
+EESchema Schematic File Version 2
+LIBS:power
+LIBS:device
+LIBS:transistors
+LIBS:conn
+LIBS:linear
+LIBS:regul
+LIBS:74xx
+LIBS:cmos4000
+LIBS:adc-dac
+LIBS:memory
+LIBS:xilinx
+LIBS:microcontrollers
+LIBS:dsp
+LIBS:microchip
+LIBS:analog_switches
+LIBS:motorola
+LIBS:texas
+LIBS:intel
+LIBS:audio
+LIBS:interface
+LIBS:digital-audio
+LIBS:philips
+LIBS:display
+LIBS:cypress
+LIBS:siliconi
+LIBS:opto
+LIBS:atmel
+LIBS:contrib
+LIBS:valves
+EELAYER 25 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L CONN_01X01 P1
+U 1 1 58A081D1
+P 3150 2450
+F 0 "P1" H 3150 2550 50  0000 C CNN
+F 1 "CONN_01X01" V 3250 2450 50  0001 C CNN
+F 2 "rtunda:pin" H 3150 2450 50  0001 C CNN
+F 3 "" H 3150 2450 50  0000 C CNN
+	1    3150 2450
+	1    0    0    -1  
+$EndComp
+$Comp
+L CONN_01X01 P2
+U 1 1 58A08305
+P 3150 2650
+F 0 "P2" H 3150 2750 50  0000 C CNN
+F 1 "CONN_01X01" V 3250 2650 50  0001 C CNN
+F 2 "rtunda:pin" H 3150 2650 50  0001 C CNN
+F 3 "" H 3150 2650 50  0000 C CNN
+	1    3150 2650
+	1    0    0    -1  
+$EndComp
+$Comp
+L CONN_01X01 P3
+U 1 1 58A08365
+P 3150 2850
+F 0 "P3" H 3150 2950 50  0000 C CNN
+F 1 "CONN_01X01" V 3250 2850 50  0001 C CNN
+F 2 "rtunda:pin" H 3150 2850 50  0001 C CNN
+F 3 "" H 3150 2850 50  0000 C CNN
+	1    3150 2850
+	1    0    0    -1  
+$EndComp
+$Comp
+L CONN_01X01 P4
+U 1 1 58A08382
+P 3150 3050
+F 0 "P4" H 3150 3150 50  0000 C CNN
+F 1 "CONN_01X01" V 3250 3050 50  0001 C CNN
+F 2 "rtunda:pin" H 3150 3050 50  0001 C CNN
+F 3 "" H 3150 3050 50  0000 C CNN
+	1    3150 3050
+	1    0    0    -1  
+$EndComp
+$Comp
+L CONN_01X01 P5
+U 1 1 58A083A2
+P 3150 3250
+F 0 "P5" H 3150 3350 50  0000 C CNN
+F 1 "CONN_01X01" V 3250 3250 50  0001 C CNN
+F 2 "rtunda:pin" H 3150 3250 50  0001 C CNN
+F 3 "" H 3150 3250 50  0000 C CNN
+	1    3150 3250
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED D5
+U 1 1 58A08407
+P 2400 2900
+F 0 "D5" H 2400 3000 50  0000 C CNN
+F 1 "LED" H 2400 2800 50  0000 C CNN
+F 2 "rtunda:LED_0603" H 2400 2900 50  0001 C CNN
+F 3 "" H 2400 2900 50  0000 C CNN
+	1    2400 2900
+	0    1    1    0   
+$EndComp
+$Comp
+L LED D2
+U 1 1 58A08495
+P 2100 2900
+F 0 "D2" H 2100 3000 50  0000 C CNN
+F 1 "LED" H 2100 2800 50  0000 C CNN
+F 2 "rtunda:LED_0603" H 2100 2900 50  0001 C CNN
+F 3 "" H 2100 2900 50  0000 C CNN
+	1    2100 2900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L LED D4
+U 1 1 58A0859E
+P 2400 2450
+F 0 "D4" H 2400 2550 50  0000 C CNN
+F 1 "LED" H 2400 2350 50  0000 C CNN
+F 2 "rtunda:LED_0603" H 2400 2450 50  0001 C CNN
+F 3 "" H 2400 2450 50  0000 C CNN
+	1    2400 2450
+	0    1    1    0   
+$EndComp
+$Comp
+L LED D1
+U 1 1 58A085A4
+P 2100 2450
+F 0 "D1" H 2100 2550 50  0000 C CNN
+F 1 "LED" H 2100 2350 50  0000 C CNN
+F 2 "rtunda:LED_0603" H 2100 2450 50  0001 C CNN
+F 3 "" H 2100 2450 50  0000 C CNN
+	1    2100 2450
+	0    -1   -1   0   
+$EndComp
+$Comp
+L LED D6
+U 1 1 58A08622
+P 2400 3400
+F 0 "D6" H 2400 3500 50  0000 C CNN
+F 1 "LED" H 2400 3300 50  0000 C CNN
+F 2 "rtunda:LED_0603" H 2400 3400 50  0001 C CNN
+F 3 "" H 2400 3400 50  0000 C CNN
+	1    2400 3400
+	0    1    1    0   
+$EndComp
+$Comp
+L LED D3
+U 1 1 58A08628
+P 2100 3400
+F 0 "D3" H 2100 3500 50  0000 C CNN
+F 1 "LED" H 2100 3300 50  0000 C CNN
+F 2 "rtunda:LED_0603" H 2100 3400 50  0001 C CNN
+F 3 "" H 2100 3400 50  0000 C CNN
+	1    2100 3400
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	2650 3250 2100 3250
+Wire Wire Line
+	2750 3550 2100 3550
+Wire Wire Line
+	2850 2750 2100 2750
+Wire Wire Line
+	2100 3050 2650 3050
+Wire Wire Line
+	2100 2300 2850 2300
+Wire Wire Line
+	2850 2300 2850 3050
+Wire Wire Line
+	2850 2450 2950 2450
+Connection ~ 2400 2300
+Connection ~ 2850 2450
+Connection ~ 2400 2750
+Connection ~ 2400 2600
+Wire Wire Line
+	2650 2850 2650 3250
+Wire Wire Line
+	2650 2850 2950 2850
+Connection ~ 2400 3050
+Wire Wire Line
+	2100 2600 2750 2600
+Wire Wire Line
+	2750 2600 2750 3550
+Wire Wire Line
+	2750 2650 2950 2650
+Connection ~ 2650 3050
+Connection ~ 2400 3250
+Connection ~ 2750 2650
+Connection ~ 2400 3550
+Wire Wire Line
+	2850 3050 2950 3050
+Connection ~ 2850 2750
+Wire Wire Line
+	2750 3250 2950 3250
+Connection ~ 2750 3250
+$EndSCHEMATC

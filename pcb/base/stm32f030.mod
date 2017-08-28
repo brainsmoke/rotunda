@@ -1,0 +1,164 @@
+PCBNEW-LibModule-V1  Sat 05 Jul 2014 01:35:18 PM CEST
+# encoding utf-8
+Units mm
+$INDEX
+TSSOP20
+$EndINDEX
+$MODULE TSSOP20
+Po 0 0 0 15 53B7E2EB 00000000 ~~
+Li TSSOP20
+Sc 0
+AR SSOP20
+Op 0 0 0
+At SMD
+T0 0 -0.7493 1.016 0.762 0 0.1905 N V 21 N "TSSOP20"
+T1 0.24892 0.7493 0.762 0.762 0 0.1905 N V 21 N "Val**"
+DC -2.6 1.2 -2.4 1.4 0.15 21
+DS 2.9 -1.8 3.3 -1.8 0.15 21
+DS 3.3 -1.8 3.3 1.8 0.15 21
+DS 3.3 1.8 2.9 1.8 0.15 21
+DS -2.9 -1.8 -3.3 -1.8 0.15 21
+DS -3.3 -1.8 -3.3 1.8 0.15 21
+DS -3.3 1.8 -2.9 1.8 0.15 21
+$PAD
+Sh "19" R 0.4 1.35 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.275 -2.875
+$EndPAD
+$PAD
+Sh "20" R 0.4 1.35 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.925 -2.875
+$EndPAD
+$PAD
+Sh "18" R 0.4 1.35 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.625 -2.875
+$EndPAD
+$PAD
+Sh "17" R 0.4 1.35 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.975 -2.875
+$EndPAD
+$PAD
+Sh "1" R 0.4 1.35 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.925 2.875
+$EndPAD
+$PAD
+Sh "2" R 0.4 1.35 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.275 2.875
+$EndPAD
+$PAD
+Sh "3" R 0.4 1.35 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.625 2.875
+$EndPAD
+$PAD
+Sh "4" R 0.4 1.35 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.975 2.875
+$EndPAD
+$PAD
+Sh "5" R 0.4 1.35 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.325 2.875
+$EndPAD
+$PAD
+Sh "6" R 0.4 1.35 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.325 2.875
+$EndPAD
+$PAD
+Sh "7" R 0.4 1.35 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.9756 2.875
+$EndPAD
+$PAD
+Sh "8" R 0.4 1.35 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.625 2.875
+$EndPAD
+$PAD
+Sh "9" R 0.4 1.35 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.275 2.875
+$EndPAD
+$PAD
+Sh "10" R 0.4 1.35 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.925 2.875
+$EndPAD
+$PAD
+Sh "11" R 0.4 1.35 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.925 -2.875
+$EndPAD
+$PAD
+Sh "12" R 0.4 1.35 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.275 -2.875
+$EndPAD
+$PAD
+Sh "13" R 0.4 1.35 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.625 -2.875
+$EndPAD
+$PAD
+Sh "14" R 0.4 1.35 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.975 -2.875
+$EndPAD
+$PAD
+Sh "15" R 0.4 1.35 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.325 -2.875
+$EndPAD
+$PAD
+Sh "16" R 0.4 1.35 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.325 -2.875
+$EndPAD
+$EndMODULE TSSOP20
+$EndLIBRARY
